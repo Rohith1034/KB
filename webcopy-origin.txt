@@ -1,0 +1,780 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: D:\Web Development\KB\crop-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a18a64a4f29_nathan-dumlao-wgS9iOQ8sxo-unsplash-thumb.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a18a64a4f29_nathan-dumlao-wgS9iOQ8sxo-unsplash-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f22_marcos-paulo-prado-SxPpXl_OHGk-unsplash-thumb.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f22_marcos-paulo-prado-SxPpXl_OHGk-unsplash-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a47aa4a4f2b_thom-bradley-ZXIuVGYKQD0-unsplash-thumb.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a47aa4a4f2b_thom-bradley-ZXIuVGYKQD0-unsplash-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a7ae44a4f27_klim-musalimov-GC6SMylaZ78-unsplash-thumb.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a7ae44a4f27_klim-musalimov-GC6SMylaZ78-unsplash-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5cb6fbf6e13945289e481390/5ddbd8bb967a3bf87c3be3a5_london-wood-co-1378329-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\5cb6fbf6e13945289e481390\5ddbd8bb967a3bf87c3be3a5_london-wood-co-1378329-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-2000.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a2db94a4f24_marcos-paulo-prado-SxPpXl_OHGk-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5acf4a4f1c_kal-visuals-IJzTAns4kUk-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-2000.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a5d7b4a4f28_klim-musalimov-GC6SMylaZ78-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a66974a4f1f_jason-leung-buwxTB45Xlw-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-2000.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a71c04a4f2a_nathan-dumlao-wgS9iOQ8sxo-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-2000.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184a7eb14a4f2c_thom-bradley-ZXIuVGYKQD0-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6045956b48184ad4fd4a4f21_kristaps-ungurs-w5Ix_iA0O1c-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edaf9905975053ad0578a_photo-1-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edaf9905975053ad0578a_photo-1-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edaf9905975053ad0578a_photo-1-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edaf9905975053ad0578a_photo-1-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edaf9905975053ad0578a_photo-1.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edaf9905975053ad0578a_photo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edafe91345b6236efe6cb_photo-1-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edafe91345b6236efe6cb_photo-1-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edafe91345b6236efe6cb_photo-1-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edafe91345b6236efe6cb_photo-1-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edafe91345b6236efe6cb_photo-1-featured-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edafe91345b6236efe6cb_photo-1-featured-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edafe91345b6236efe6cb_photo-1-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edafe91345b6236efe6cb_photo-1-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5294532b2dadaf143d_photo-2-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5294532b2dadaf143d_photo-2-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5294532b2dadaf143d_photo-2-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5294532b2dadaf143d_photo-2-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5294532b2dadaf143d_photo-2.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5294532b2dadaf143d_photo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5650708cecbf4a6fac_photo-2-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5650708cecbf4a6fac_photo-2-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5650708cecbf4a6fac_photo-2-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5650708cecbf4a6fac_photo-2-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb5650708cecbf4a6fac_photo-2-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb5650708cecbf4a6fac_photo-2-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb955156d531725630af_photo-3-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb955156d531725630af_photo-3-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb955156d531725630af_photo-3-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb955156d531725630af_photo-3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb955156d531725630af_photo-3-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb955156d531725630af_photo-3-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb955156d531725630af_photo-3.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb955156d531725630af_photo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb9926e7a4d43d7e0479_photo-3-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb9926e7a4d43d7e0479_photo-3-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb9926e7a4d43d7e0479_photo-3-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb9926e7a4d43d7e0479_photo-3-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb9926e7a4d43d7e0479_photo-3-featured-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb9926e7a4d43d7e0479_photo-3-featured-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edb9926e7a4d43d7e0479_photo-3-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edb9926e7a4d43d7e0479_photo-3-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc68385521455243a034_photo-4-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc68385521455243a034_photo-4-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc68385521455243a034_photo-4-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc68385521455243a034_photo-4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc68385521455243a034_photo-4-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc68385521455243a034_photo-4-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc68385521455243a034_photo-4.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc68385521455243a034_photo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc6b905975449bd05925_photo-4-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc6b905975449bd05925_photo-4-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc6b905975449bd05925_photo-4-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc6b905975449bd05925_photo-4-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc6b905975449bd05925_photo-4-featured-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc6b905975449bd05925_photo-4-featured-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/604edc6b905975449bd05925_photo-4-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\604edc6b905975449bd05925_photo-4-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f5872ff349beb45afe86_photo-9-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f5872ff349beb45afe86_photo-9-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f5872ff349beb45afe86_photo-9-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f5872ff349beb45afe86_photo-9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f5872ff349beb45afe86_photo-9-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f5872ff349beb45afe86_photo-9-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f5872ff349beb45afe86_photo-9.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f5872ff349beb45afe86_photo-9.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f58df315c397d5711c57_photo-9-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f58df315c397d5711c57_photo-9-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f58df315c397d5711c57_photo-9-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f58df315c397d5711c57_photo-9-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f58df315c397d5711c57_photo-9-featured-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f58df315c397d5711c57_photo-9-featured-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f58df315c397d5711c57_photo-9-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f58df315c397d5711c57_photo-9-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6c2c0eb9ea081d31f46_photo-10-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6c2c0eb9ea081d31f46_photo-10-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6c2c0eb9ea081d31f46_photo-10-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6c2c0eb9ea081d31f46_photo-10-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6c2c0eb9ea081d31f46_photo-10-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6c2c0eb9ea081d31f46_photo-10-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6c2c0eb9ea081d31f46_photo-10.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6c2c0eb9ea081d31f46_photo-10.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6cc70b442b416080eb2_photo-10-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6cc70b442b416080eb2_photo-10-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6cc70b442b416080eb2_photo-10-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6cc70b442b416080eb2_photo-10-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f6cc70b442b416080eb2_photo-10-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f6cc70b442b416080eb2_photo-10-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7a770b4426ed908112a_photo-12-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7a770b4426ed908112a_photo-12-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7a770b4426ed908112a_photo-12-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7a770b4426ed908112a_photo-12-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7a770b4426ed908112a_photo-12-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7a770b4426ed908112a_photo-12-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7a770b4426ed908112a_photo-12.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7a770b4426ed908112a_photo-12.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7abfa463682e7b3a7fb_photo-12-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7abfa463682e7b3a7fb_photo-12-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7abfa463682e7b3a7fb_photo-12-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7abfa463682e7b3a7fb_photo-12-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184a3ba44a4d20/6052f7abfa463682e7b3a7fb_photo-12-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184a3ba44a4d20\6052f7abfa463682e7b3a7fb_photo-12-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a0bf44a4dda_search.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a0bf44a4dda_search.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a16c24a4da8_play-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a16c24a4da8_play-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a21b34a4e55_maksym-zakharyak-1155352-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a21b34a4e55_maksym-zakharyak-1155352-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a25df4a4d6e_linkedin-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a25df4a4d6e_linkedin-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a5c3b4a4e46_vimeo.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a5c3b4a4e46_vimeo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a5dbc4a4dac_twitter-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a5dbc4a4dac_twitter-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a6dc74a4db5_youtube-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a6dc74a4db5_youtube-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184a7b244a4d69_instagram-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184a7b244a4d69_instagram-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184acba14a4e57_london-wood-co-1378329-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184acba14a4e57_london-wood-co-1378329-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184ad30f4a4dae_down-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184ad30f4a4dae_down-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184ae0c84a4d65_facebook-icon-white.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184ae0c84a4d65_facebook-icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184aef374a4e54_5be96776163440f464c0e8fd_ellehem-693-unsplash.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184aef374a4e54_5be96776163440f464c0e8fd_ellehem-693-unsplash.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-800.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6045956b48184af0b84a4e4e_martin-katler-jgZYHNGNR2M-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604ee84484f8f8b15d33ef67_photo-8-featured-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604ee84484f8f8b15d33ef67_photo-8-featured-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604ee84484f8f8b15d33ef67_photo-8-featured-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604ee84484f8f8b15d33ef67_photo-8-featured-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604ee84484f8f8b15d33ef67_photo-8-featured.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604ee84484f8f8b15d33ef67_photo-8-featured.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6d26e7a47f907f45ec_photo-3-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6d26e7a47f907f45ec_photo-3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6d26e7a47f907f45ec_photo-3.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6d26e7a47f907f45ec_photo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e198124a8571c955d_photo-11-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e198124a8571c955d_photo-11-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e198124a8571c955d_photo-11-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e198124a8571c955d_photo-11-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e198124a8571c955d_photo-11.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e198124a8571c955d_photo-11.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e3855215d0844bef2_photo-14-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e3855215d0844bef2_photo-14-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e3855215d0844bef2_photo-14-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e3855215d0844bef2_photo-14-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e3855215d0844bef2_photo-14-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e3855215d0844bef2_photo-14-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e3855215d0844bef2_photo-14.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e3855215d0844bef2_photo-14.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e50708c549f4b8541_photo-5-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e50708c549f4b8541_photo-5-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e50708c549f4b8541_photo-5-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e50708c549f4b8541_photo-5-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e50708c549f4b8541_photo-5-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e50708c549f4b8541_photo-5-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e50708c549f4b8541_photo-5.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e50708c549f4b8541_photo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e690126dc05d6e560_photo-2-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e690126dc05d6e560_photo-2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6e690126dc05d6e560_photo-2.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6e690126dc05d6e560_photo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ee77ed20a657a4c5f_photo-4-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ee77ed20a657a4c5f_photo-4-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ee77ed20a657a4c5f_photo-4-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ee77ed20a657a4c5f_photo-4-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ee77ed20a657a4c5f_photo-4.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ee77ed20a657a4c5f_photo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ee9f5d3f48d6e97e0_photo-1-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ee9f5d3f48d6e97e0_photo-1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ee9f5d3f48d6e97e0_photo-1.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ee9f5d3f48d6e97e0_photo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f2582aaf2b8ee51a3_photo-8-p-1080.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f2582aaf2b8ee51a3_photo-8-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f2582aaf2b8ee51a3_photo-8-p-1600.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f2582aaf2b8ee51a3_photo-8-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f2582aaf2b8ee51a3_photo-8-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f2582aaf2b8ee51a3_photo-8-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f2582aaf2b8ee51a3_photo-8.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f2582aaf2b8ee51a3_photo-8.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f9b7b09d11760d9b7_photo-12-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f9b7b09d11760d9b7_photo-12-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6f9b7b09d11760d9b7_photo-12.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6f9b7b09d11760d9b7_photo-12.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6fe1d7532856127c82_photo-9-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6fe1d7532856127c82_photo-9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6fe1d7532856127c82_photo-9.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6fe1d7532856127c82_photo-9.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f2f6ffc9c5744ae258343_photo-10.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f2f6ffc9c5744ae258343_photo-10.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a03704426c65620839_foxhub-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a03704426c65620839_foxhub-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a03855216efc452660_aven-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a03855216efc452660_aven-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a066d1ef138508a383_ideaa-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a066d1ef138508a383_ideaa-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a08050b909380d41bd_circle-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a08050b909380d41bd_circle-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a0f1ea30b229158ae2_code-lab-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a0f1ea30b229158ae2_code-lab-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a14fc50c53c0dce644_earth-2.0-dark-p-500.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a14fc50c53c0dce644_earth-2.0-dark-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/604f42a14fc50c53c0dce644_earth-2.0-dark.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\604f42a14fc50c53c0dce644_earth-2.0-dark.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3ac413f01557baa4a4_instagram-4.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3ac413f01557baa4a4_instagram-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3af6c3d0f15e391dca_instagram-2-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3af6c3d0f15e391dca_instagram-2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3af6c3d0f15e391dca_instagram-2.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3af6c3d0f15e391dca_instagram-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3b76d2b6a8153751aa_instagram-3-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3b76d2b6a8153751aa_instagram-3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3b76d2b6a8153751aa_instagram-3.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3b76d2b6a8153751aa_instagram-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3ba284287bf2bc0853_instagram-1.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3ba284287bf2bc0853_instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3bb106f342b1f989ce_instagram-6-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3bb106f342b1f989ce_instagram-6-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3bb106f342b1f989ce_instagram-6.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3bb106f342b1f989ce_instagram-6.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3be2bc48e0a9e7daee_instagram-5-p-500.jpeg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3be2bc48e0a9e7daee_instagram-5-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6051cd3be2bc48e0a9e7daee_instagram-5.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6051cd3be2bc48e0a9e7daee_instagram-5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/605472611b1d9946848e1f05_favicon.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\605472611b1d9946848e1f05_favicon.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/605472e330224a5eb6167685_webclip.png
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\605472e330224a5eb6167685_webclip.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6055773553114a7f9ec1f119_logo.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6055773553114a7f9ec1f119_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6056e8d3b96d3f89f46f31a7_production ID_3888252-poster-00001.jpg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6056e8d3b96d3f89f46f31a7_production ID_3888252-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6056e8d3b96d3f89f46f31a7_production ID_3888252-transcode.mp4
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6056e8d3b96d3f89f46f31a7_production ID_3888252-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6056e8d3b96d3f89f46f31a7_production ID_3888252-transcode.webm
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6056e8d3b96d3f89f46f31a7_production ID_3888252-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/6056f8824e987ff5cf3e9518_quote.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\6056f8824e987ff5cf3e9518_quote.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/605c1cd10d089263ca1512d8_preloader.gif
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\605c1cd10d089263ca1512d8_preloader.gif
+Content Type: image/gif
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/css/crop-template.webflow.b397ce8ce.css
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\css\crop-template.webflow.b397ce8ce.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/6045956b48184ac79f4a4d1d/js/webflow.b1d65d6bc.js
+File Name: D:\Web Development\KB\crop-template.webflow.io\6045956b48184ac79f4a4d1d\js\webflow.b1d65d6bc.js
+Content Type: text/javascript
+
+Uri: https://crop-template.webflow.io/
+File Name: D:\Web Development\KB\crop-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/about
+File Name: D:\Web Development\KB\crop-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-categories/photography
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-categories\photography.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-categories/travel
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-categories\travel.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-categories/tutorials
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-categories\tutorials.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/gagets
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\gagets.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/inspiration
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\inspiration.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/landscape
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\landscape.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/mobile
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\mobile.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/motivation
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\motivation.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/technology
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\technology.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog-tags/travel
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog-tags\travel.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog/how-to-make-your-product-stand-out-with-elastic-themes
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog\how-to-make-your-product-stand-out-with-elastic-themes.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog/how-to-make-your-template-look-amazing
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog\how-to-make-your-template-look-amazing.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog/how-to-save-money-with-templates
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog\how-to-save-money-with-templates.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/blog/how-webflow-made-me-a-better-designer
+File Name: D:\Web Development\KB\crop-template.webflow.io\blog\how-webflow-made-me-a-better-designer.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/contact
+File Name: D:\Web Development\KB\crop-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/gallery
+File Name: D:\Web Development\KB\crop-template.webflow.io\gallery.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/hire
+File Name: D:\Web Development\KB\crop-template.webflow.io\hire.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/services
+File Name: D:\Web Development\KB\crop-template.webflow.io\services.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/template/changelog
+File Name: D:\Web Development\KB\crop-template.webflow.io\template\changelog.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/template/instructions
+File Name: D:\Web Development\KB\crop-template.webflow.io\template\instructions.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/template/licenses
+File Name: D:\Web Development\KB\crop-template.webflow.io\template\licenses.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/template/style-guide
+File Name: D:\Web Development\KB\crop-template.webflow.io\template\style-guide.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/work-categories/fashion
+File Name: D:\Web Development\KB\crop-template.webflow.io\work-categories\fashion.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/work-categories/lifestyle
+File Name: D:\Web Development\KB\crop-template.webflow.io\work-categories\lifestyle.html
+Content Type: text/html
+
+Uri: https://crop-template.webflow.io/work-categories/studio
+File Name: D:\Web Development\KB\crop-template.webflow.io\work-categories\studio.html
+Content Type: text/html
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6045956b48184ac79f4a4d1d
+File Name: D:\Web Development\KB\crop-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: D:\Web Development\KB\crop-template.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
